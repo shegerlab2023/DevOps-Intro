@@ -1,4 +1,3 @@
-```markdown
 # Introduction to DevOps: Bridging the Gap Between Development and Operations
 
 ## Introduction
@@ -47,5 +46,3 @@ Engage in open discussions and pose questions about DevOps concepts, challenges,
 Find a list of sources and resources for further exploration of DevOps principles, practices, and tools.
 https://learn.microsoft.com/en-us/devops/what-is-devops
 ---
-
-```
